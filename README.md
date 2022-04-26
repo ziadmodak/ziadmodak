@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ziadmodak.
-- 👀 I’m interested in wrangling all kinds of data mainly using Python. 
-- 🌱 I’m currently setting up a Raspberry Pi kiosk for home automation and power management.
+- 👀 I’m interested in wrangling all kinds of data, and building resilient cloud applications, mainly using Python. 
+- 🌱 I’m currently setting up a Raspberry Pi kiosk for home automation and solar power management.
 
 <!---
 ziadmodak/ziadmodak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
